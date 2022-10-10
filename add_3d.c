@@ -1,3 +1,5 @@
+//adding rows of 3D array
+
 #include<stdio.h>
 void pass(int (*q)[3][3])
 
