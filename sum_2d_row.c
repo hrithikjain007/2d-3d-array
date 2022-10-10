@@ -1,3 +1,4 @@
+// sum of rows of 2D array
 #include<stdio.h>
 void pass(int (*p)[3])
 {
