@@ -1,3 +1,4 @@
+//delete element in 3D array
 #include<stdio.h>
 void pass(int (*q)[5][5])
 
