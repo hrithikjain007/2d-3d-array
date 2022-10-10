@@ -1,4 +1,4 @@
-// C Program to store and print 12 values entered by the user
+// 3d array printing
 
 #include <stdio.h>
 int main()
@@ -18,7 +18,7 @@ int main()
     }
   }
 
-  // Printing values with the proper index.
+  
 
   printf("\nDisplaying values:\n");
   for (int i = 0; i < 2; ++i)
