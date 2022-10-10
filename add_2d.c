@@ -1,3 +1,4 @@
+// adding two 2d arrays
 #include<stdio.h>
 void pass(int (*a)[3],int (*b)[3])
 {
